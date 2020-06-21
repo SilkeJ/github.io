@@ -18,3 +18,5 @@ So sieht er aus:
   
 Der Gruffalo sagt:  
 > Everyone is afraid of me!
+  
+<img src="https://www.bamberger-onlinezeitung.de/wp-content/uploads/2018/01/Gru%CC%88ffelo-mit-Maus.jpg"/>
