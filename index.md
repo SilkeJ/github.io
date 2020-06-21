@@ -16,3 +16,5 @@ So sieht er aus:
 * Pickel
 * zotteliges Fell  
   
+Der Gruffalo sagt:  
+> Everyone is afraid of me!
